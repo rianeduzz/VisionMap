@@ -55,11 +55,54 @@ Desenvolver uma solução para análise e visualização do ecossistema econômi
 
 ## Product Backlog
 
-| Sprint | Objetivo |
-|---|---|
-| **Sprint 1** | Filtragem, limpeza, padronização e classificação dos dados |
-| **Sprint 2** | Desenvolvimento da primeira versão do painel de BI |
-| **Sprint 3** | Melhorias, análises, filtros, testes e documentação final |
+## Sprint 1 — Preparação e filtragem dos dados
+
+Nesta etapa, a equipe deverá:
+
+- Selecionar as fontes públicas;
+- Filtrar os registros para São José dos Campos;
+- Corrigir inconsistências;
+- Eliminar duplicidades;
+- Padronizar os campos;
+- Classificar as empresas;
+- Registrar a origem dos dados.
+
+### Entrega
+
+Base de dados tratada, organizada e pronta para alimentar o painel.
+
+---
+
+## Sprint 2 — Primeira versão do painel de BI
+
+Nesta etapa serão desenvolvidos:
+
+- Gráficos sobre a quantidade de empresas por setor;
+- Indicadores de emprego ou contratações, quando disponíveis;
+- Filtros básicos;
+- Representação da localização das empresas;
+- Primeira versão do painel.
+
+### Entrega
+
+Primeira versão funcional do painel, capaz de apresentar os principais setores industriais e de serviços do município.
+
+---
+
+## Sprint 3 — Complementação e finalização
+
+Nesta etapa serão realizadas:
+
+- Comparações entre setores;
+- Filtros mais detalhados;
+- Análise das atividades produtivas;
+- Relação com tecnologia e inovação;
+- Melhorias visuais;
+- Testes;
+- Documentação final.
+
+### Entrega
+
 
 ### Principais User Stories
 
