@@ -119,16 +119,6 @@ Nesta etapa serão realizadas:
 
 ---
 
-## Registro das Sprints
-
-| Sprint | Status | Entrega |
-|---|---|---|
-| **01** | 🔄 Em desenvolvimento | Base de dados tratada |
-| **02** | ⏳ A fazer | Primeira versão do painel |
-| **03** | ⏳ A fazer | Painel final e documentação |
-
----
-
 ## Organização das Sprints
 
 ### Sprint 1 — Preparação dos dados
