@@ -48,7 +48,6 @@ Desenvolver uma solução para análise e visualização do ecossistema econômi
 - Microsoft Excel
 - Python
 - Google Colab
-- MySQL
 - GitHub
 
 ---
