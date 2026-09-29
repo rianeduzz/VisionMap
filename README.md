@@ -35,10 +35,10 @@ Desenvolver uma solução para análise e visualização do ecossistema econômi
 
 | Nome | LinkedIn | GitHub |
 |---|---|---|
-| Bruno Godoi de Lima | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](LINK) | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white)](https://github.com/Brunogodoi11) |
-| Maria Eduarda de Souza | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](LINK) | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white)](https://github.com/madueds2014-oss) |
+| Bruno Godoi de Lima | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-godoi-logistica/) | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white)](https://github.com/Brunogodoi11) |
+| Maria Eduarda de Souza | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinho-batista-de-oliveira-8061493b8?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white)](https://github.com/madueds2014-oss) |
 | Marinho B. Oliveira | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](LINK) | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white)](https://github.com/marinhobatista2015) |
-| Rian Eduardo de Brito Prado | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](LINK) | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white)](https://github.com/rianeduzz) |
+| Rian Eduardo de Brito Prado | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-eduardo-9287512b7/) | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white)](https://github.com/rianeduzz) |
 
 ---
 
