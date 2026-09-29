@@ -1,3 +1,36 @@
+# Acesso ao código: o código Python está disponível no arquivo .py. Para visualizar e utilizar o código completo, é necessário clicar no ícone/botão de download e baixar o arquivo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # %% [markdown]
 # # Base de estabelecimentos RAIS – São José dos Campos (SP)
