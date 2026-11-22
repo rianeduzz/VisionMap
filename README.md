@@ -92,7 +92,7 @@ VisionMap/
 |---|---|---|---|
 | Bruno Godoi de Lima | Scrum Master | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-godoi-logistica/) | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white)](https://github.com/Brunogodoi11) |
 | Maria Eduarda de Souza | Product Owner | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](COLE_AQUI_O_LINKEDIN_DA_MARIA) | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white)](https://github.com/madueds2014-oss) |
-| Marinho B. Oliveira | Desenvolvedor | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](COLE_AQUI_O_LINKEDIN_DO_MARINHO) | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white)](https://github.com/marinhobatista2015) |
+| Marinho B. Oliveira | Desenvolvedor | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinho-batista-de-oliveira-8061493b8/) | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white)](https://github.com/marinhobatista2015) |
 | Rian Eduardo de Brito Prado | Desenvolvedor | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-eduardo-9287512b7/) | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white)](https://github.com/rianeduzz) |
 
 ---
