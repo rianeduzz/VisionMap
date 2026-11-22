@@ -102,6 +102,18 @@ Nesta etapa serão realizadas:
 
 ### Entrega
 
+Painel de BI revisado e finalizado, capaz de apresentar e comparar os principais setores industriais e de serviços de São José dos Campos, acompanhado da documentação necessária para que a Secretaria consulte e dê continuidade ao trabalho.
+
+| Item | Descrição | 
+|---|---|
+| Painel Power BI | Versão final do painel (.pbix) |
+| Base de dados | Base tratada da RAIS filtrada para SJC | 
+| Código Python | Notebook de tratamento da base (Google Colab) |
+| Relatório final | Documentação e passo a passo para replicação |
+| Vídeo | Apresentação final com toda a equipe | 
+| PACER | Avaliação final da equipe |
+
+Todos os acessos aos arquivos estarão nas pastas acima.
 
 ### Principais User Stories
 
