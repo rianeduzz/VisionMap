@@ -49,7 +49,7 @@ A solução reúne **47.339 estabelecimentos** e **206.717 vínculos ativos** do
 | **Relatório final** | Documentação completa e passo a passo para replicação | [Abrir PDF](VisionMap-Docs/VisionMap_Relatorio_Final.pdf) |
 | **User Stories** | Histórias de usuário e organização das sprints | [Abrir PDF](VisionMap-Docs/VisionMap%20.pdf) |
 | **Vídeo final** | Apresentação do projeto com toda a equipe | [Assistir](COLE_AQUI_O_LINK_DO_VIDEO) |
-| **PACER** | Avaliação da equipe | **PACER** | Avaliação da equipe | [PACER](PACER_Vision_Map.pdf) |
+| **PACER** | Avaliação da equipe | [Abrir PDF](VisionMap-Docs/PACER_Vision_Map.pdf) |
 
 ---
 
