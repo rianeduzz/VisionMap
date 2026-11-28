@@ -48,7 +48,7 @@ A solução reúne **47.339 estabelecimentos** e **206.717 vínculos ativos** do
 | **Código Python** | Notebook que gera a base tratada a partir da RAIS | [Abrir pasta](Codigo-Python) · [Abrir no Colab](https://colab.research.google.com/github/rianeduzz/VisionMap/blob/main/Codigo-Python/rais_sjc_colab.ipynb) |
 | **Relatório final** | Documentação completa e passo a passo para replicação | [Abrir PDF](VisionMap-Docs/VisionMap_Relatorio_Final.pdf) |
 | **User Stories** | Histórias de usuário e organização das sprints | [Abrir PDF](VisionMap-Docs/VisionMap%20.pdf) |
-| **Vídeo final** | Apresentação do projeto com toda a equipe | [Assistir](COLE_AQUI_O_LINK_DO_VIDEO) |
+| **Vídeo final** | Apresentação do projeto com toda a equipe | [Assistir](https://youtu.be/qhpcFWLtSYk) |
 | **PACER** | Avaliação da equipe | [Abrir PDF](VisionMap-Docs/PACER_Vision_Map.pdf) |
 
 ---
